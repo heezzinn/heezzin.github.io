@@ -6,7 +6,8 @@
   #### short 옵션의 특징
   
   short 옵션은 여러 가지 방법으로 사용할 수 있다.
-  **getopt/getopts** 명령을 이용하지 않을 경우 스크립트가 복잡해질 수 있다.
+  
+  > **getopt/getopts** 명령을 이용하지 않을 경우 스크립트가 복잡해질 수 있다.
   
   
   ```
@@ -534,17 +535,3 @@ $ awk '/best/{++cnt} END {print "Count = ", cnt}' testfile
 Count =  2
  ```
  
- 
-20자를 초과하는 줄 인쇄
-
-20자를 초과하는 줄만 인쇄한다.
-```
-$ awk 'length($0) > 20' testfile
-
-
-# 출력
-I am the best programmer.
-My hobby is riding a bicycle.
-Coding is so much fun.
- ```
-
