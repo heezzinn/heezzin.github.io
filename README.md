@@ -6,7 +6,7 @@
   #### short 옵션의 특징
   
   short 옵션은 여러 가지 방법으로 사용할 수 있다.
-  getopt/getopts 명령을 이용하지 않을 경우 스크립트가 복잡해질 수 있다.
+  **getopt/getopts** 명령을 이용하지 않을 경우 스크립트가 복잡해질 수 있다.
   
   
   ```
@@ -81,7 +81,7 @@ done
   
   args에는 명령 실행시 사용된 인수 값들이 오는데 생략할 경우 `"$@"`가 사용된다.
   
-  쉘이 처음 실행도면 $OPTIND 값은 1을 가리키고 getopts 명령이 실행될 때마다 다음 옵션은 index 값을 가리키게 됩니다
+  쉘이 처음 실행도면 **$OPTIND** 값은 1을 가리키고 getopts 명령이 실행될 때마다 다음 옵션은 index 값을 가리키게 됩니다
   
   
  ``` 
@@ -120,7 +120,7 @@ hello world
 #### OPTARG
 옵션은 옵션 인수(argument)를 가질 수 있다.
 옵션 스트링에서 해당 옵션 문자 뒤에 : 을 붙인다.
-그러면 getopts 명령은 옵션인수 값를 $OPTARG 변수에 설정해 준다.
+그러면 getopts 명령은 옵션인수 값를 **$OPTARG** 변수에 설정해 준다.
 
 ```
 $ OPTIND=1
@@ -175,7 +175,7 @@ hello world
 
 ## getopt
 
-goetopt 은 외부명령이다.
+getopt 은 외부명령이다.
 
 기본적으로 short 옵션과 long 옵션을 모두 지원한다. 
 
