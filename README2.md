@@ -8,7 +8,7 @@
 
 최고점 : 8
 
-내 점수 : 
+내 점수 : 9
 
 코드 : 
 `
@@ -28,8 +28,11 @@ GWI"<End>"<Esc>ZZ
 
 최고점 : 19
 
-내 점수 : 
+내 점수 : 27
 
+코드 : 
+`
+:%s/sublime\|emacs/vim/g<CR>ZZ
 
 ---
 
@@ -91,12 +94,13 @@ P                                     # 복사해놨던 'Debug' 붙여넣기
 
 최고점 : 19
 
-내 점수 : 
+내 점수 : 55
 
 코드 : 
 `
 Gb<Right>i,,,<Esc>{<Up><Up><Up><Up>wywGb<Right>P{<Up><Up><Up>wywGb<Right>P{<Up><Up>wywGb<Right>P{<Up>wywGb<Right>PZZ
 `
+
 코드 설명 :
 ```
 ```
