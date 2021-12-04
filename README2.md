@@ -112,7 +112,7 @@ P                                     # 복사해놨던 'Debug' 붙여넣기
 최고점 : 34
 
 
-![rhkwp3 mp4_000002989](https://user-images.githubusercontent.com/94598039/144727384-8faeec83-95b8-439c-8f21-0e0e3f3f128a.gif)
+![rhkwp5 mp4_000003150](https://user-images.githubusercontent.com/94598039/144727415-e216ceb4-de2f-4973-9c34-b72550d4d69d.gif)
 
 
 
