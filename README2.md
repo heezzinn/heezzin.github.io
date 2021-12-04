@@ -65,6 +65,11 @@ I"                          # 입력모드로 변환 후 " 삽입
 
 최고점 : 20
 
+
+![rhkwp3 mp4_000002989](https://user-images.githubusercontent.com/94598039/144727375-a461a6df-1afe-4699-acfb-846af9cc1975.gif)
+
+
+
 내 점수 : 45
 
 코드 : `<Down><Down><Down><Right>ywi// m<CR><Down>// m<CR><Esc><Up><Up>bPG<Up><Right>ywbP:%s/m/TODO/g<CR>ZZ`
@@ -105,6 +110,11 @@ P                                     # 복사해놨던 'Debug' 붙여넣기
 문제 번호 : 9v0060da5177000000000209
 
 최고점 : 34
+
+
+![rhkwp3 mp4_000002989](https://user-images.githubusercontent.com/94598039/144727384-8faeec83-95b8-439c-8f21-0e0e3f3f128a.gif)
+
+
 
 내 점수 : 88
 
@@ -148,6 +158,11 @@ P                                     # 복사해놨던 'Debug' 붙여넣기
 문제 번호 : 6013804df3308e0009368f1c
 
 최고점 : 19
+
+
+![rhkwpp5 mp4_000003015](https://user-images.githubusercontent.com/94598039/144727390-7b18e940-4e1a-49ba-a136-29109aca36ac.gif)
+
+
 
 내 점수 : 55
 
