@@ -33,7 +33,7 @@ GWI"<End>"<Esc>ZZ
 코드 : 
 `
 :%s/sublime\|emacs/vim/g<CR>ZZ
-
+`
 ---
 
 ### 3
@@ -81,9 +81,25 @@ P                                     # 복사해놨던 'Debug' 붙여넣기
 
 최고점 : 34
 
-내 점수 : 
+내 점수 : 116
+
+코드 :
+  `:%s/y1/abs(y1)/g<CR>:/<BS>.s/1/4<CR>/<BS>:.<BS>/<BS>4/<BS><BS>1/4/g<CR>:.s/1/4/g<CR>/s/<BS><BS><BS>:.s/k/g/g<CR>b:.s/1/3/g<CR>:/<BS>.s/k/r/g<CR>b:.s/1/2/g<CR>:.s/k/b/g<CR>ZZ`
+  
+코드 설명 :
+  ```
+  ```
 
 
+  비주얼 블록 모드로 풀고 싶었지만..
+
+
+  CTRL+V도 안먹고..
+  
+
+  CTRL+Q도 안먹어서..
+
+  결국 검색, 치환으로 풀었습니다..
 
 ---
 
