@@ -92,11 +92,12 @@ P                                     # 복사해놨던 'Debug' 붙여넣기
 
 최고점 : 34
 
-내 점수 : 116
+내 점수 : 88
 
 코드 :
-  `:%s/y1/abs(y1)/g<CR>:/<BS>.s/1/4<CR>/<BS>:.<BS>/<BS>4/<BS><BS>1/4/g<CR>:.s/1/4/g<CR>/s/<BS><BS><BS>:.s/k/g/g<CR>b:.s/1/3/g<CR>:/<BS>.s/k/r/g<CR>b:.s/1/2/g<CR>:.s/k/b/g<CR>ZZ`
-  
+  `
+  :%s/y1/abs(y1)/g<CR>:.s/1/4/g<CR>:.s/k/g/g<CR><Up>:.s/1/3/g<CR>:.s/k/r/g<CR><Up>:.s/1/2/g<CR>:.s/k/b/g<CR>ZZ
+  `
 코드 설명 :
   ```
   ```
@@ -131,4 +132,5 @@ Gb<Right>i,,,<Esc>{<Up><Up><Up><Up>wywGb<Right>P{<Up><Up><Up>wywGb<Right>P{<Up><
 
 코드 설명 :
 ```
+
 ```
