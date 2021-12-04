@@ -84,3 +84,10 @@ code : 6013804df3308e0009368f1c
 
 내 점수 : 
 
+코드 : 
+`
+Gb<Right>i,,,<Esc>{<Up><Up><Up><Up>wywGb<Right>P{<Up><Up><Up>wywGb<Right>P{<Up><Up>wywGb<Right>P{<Up>wywGb<Right>PZZ
+`
+코드 설명 :
+```
+```
