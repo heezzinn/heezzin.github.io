@@ -20,8 +20,10 @@ GWI"<End>"<Esc>ZZ
 
 코드 설명 :
 ```
-GW
-I"<End>"<Esc>ZZ
+GW                          # 위치 이동
+I"                          # 입력모드로 변환 후 " 삽입
+<End>"                      # 끝으로 이동하여 " 삽입
+<Esc>ZZ                     # 일반모드로 변환 후 종료
 ```
 
 ---
@@ -40,6 +42,12 @@ I"<End>"<Esc>ZZ
 `
 :%s/sublime\|emacs/vim/g<CR>ZZ
 `
+
+코드 설명 :
+```
+:%s/sublime\|emacs/vim/g<CR>ZZ          # 'sublime'과 'emacs'를 'vim'으로 치환
+```
+
 ---
 
 ### 3
@@ -144,5 +152,32 @@ Gb<Right>i,,,<Esc>{<Up><Up><Up><Up>wywGb<Right>P{<Up><Up><Up>wywGb<Right>P{<Up><
 
 코드 설명 :
 ```
+Gb<Right>                     # ""으로 이동
+i,,,<Esc>                     # 입력모드에서 ',,,'삽입 후 일반모드로 변환
+
+{<Up><Up><Up><Up>             # 
+wy
+wGb<Right>
+P
+
+{<Up><Up><Up>
+wy
+wGb<Right>
+P
+
+{<Up><Up>
+wy
+wGb<Right>
+P
+
+{<Up>
+wy
+wGb<Right>
+PZZ
+
+
+
+
+
 
 ```
