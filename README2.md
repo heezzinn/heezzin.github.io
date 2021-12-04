@@ -155,29 +155,23 @@ Gb<Right>i,,,<Esc>{<Up><Up><Up><Up>wywGb<Right>P{<Up><Up><Up>wywGb<Right>P{<Up><
 Gb<Right>                     # ""으로 이동
 i,,,<Esc>                     # 입력모드에서 ',,,'삽입 후 일반모드로 변환
 
-{<Up><Up><Up><Up>             # 
-wy
-wGb<Right>
-P
+{<Up><Up><Up><Up>             # 복사할 단어 위치로 이동
+wy                            # 'student_id' 단어 복사
+wGb<Right>                    # 붙여넣을 위치 이동
+P                             # 'student_id' 붙여넣기
 
-{<Up><Up><Up>
-wy
-wGb<Right>
-P
+{<Up><Up><Up>                 # 복사할 단어 위치 이동
+wy                            # 'name' 단어 복사
+wGb<Right>                    # 붙여넣을 위치 이동
+P                             # 'name' 붙여넣기
 
-{<Up><Up>
-wy
-wGb<Right>
-P
+{<Up><Up>                     # 복사할 단어 위치로 이동
+wy                            # 'age' 단어 복사
+wGb<Right>                    # 붙여넣을 위치 이동
+P                             # 'age' 붙여넣기
 
-{<Up>
-wy
-wGb<Right>
-PZZ
-
-
-
-
-
-
+{<Up>                         # 복사할 단어 위치로 이동
+wy                            # 'score' 단어 복사
+wGb<Right>                    # 붙여넣을 위치 이동
+PZZ                           # 'score' 붙여넣기
 ```
