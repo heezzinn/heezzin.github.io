@@ -4,6 +4,9 @@
 
 ### 1번
 
+![image](https://user-images.githubusercontent.com/94598039/144725723-070abe15-3f8f-454b-973f-e03e493c98a8.png)
+
+
 문제 번호 : 5f0f5fbe280fbf000c233304
 
 최고점 : 8
@@ -17,12 +20,15 @@ GWI"<End>"<Esc>ZZ
 
 코드 설명 :
 ```
+GW
+I"<End>"<Esc>ZZ
 ```
 
 ---
 
 ### 2번
 
+![image](https://user-images.githubusercontent.com/94598039/144725746-c1a2cbea-2521-47f1-bed8-ea9471b48b48.png)
 
 문제 번호 : 603ba26a01b4d00009c10a49
 
@@ -37,6 +43,9 @@ GWI"<End>"<Esc>ZZ
 ---
 
 ### 3
+
+![image](https://user-images.githubusercontent.com/94598039/144725786-06683b1a-4048-412b-b650-83a4b38ba0ba.png)
+
 
 문제 번호 : 5f1063aa8361810006e73210
 
@@ -76,6 +85,8 @@ P                                     # 복사해놨던 'Debug' 붙여넣기
 
 ### 4
 
+![image](https://user-images.githubusercontent.com/94598039/144725797-80ba4586-7f30-4d9a-abc2-512e1fd034c2.png)
+
 
 문제 번호 : 9v0060da5177000000000209
 
@@ -104,6 +115,7 @@ P                                     # 복사해놨던 'Debug' 붙여넣기
 ---
 
 ### 5
+![image](https://user-images.githubusercontent.com/94598039/144725805-8b311a85-7e4c-4074-a5ed-55ab3b2d78f5.png)
 
 
 문제 번호 : 6013804df3308e0009368f1c
