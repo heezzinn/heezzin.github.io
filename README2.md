@@ -112,7 +112,7 @@ P                                     # 복사해놨던 'Debug' 붙여넣기
 최고점 : 34
 
 
-![rhkwp5 mp4_000003150](https://user-images.githubusercontent.com/94598039/144727415-e216ceb4-de2f-4973-9c34-b72550d4d69d.gif)
+![rhkwp5 mp4_000003150](https://user-images.githubusercontent.com/94598039/144727434-dea8ac09-528f-4b10-bde1-391cc1b187a9.gif)
 
 
 
@@ -160,8 +160,7 @@ P                                     # 복사해놨던 'Debug' 붙여넣기
 최고점 : 19
 
 
-![rhkwpp5 mp4_000003015](https://user-images.githubusercontent.com/94598039/144727390-7b18e940-4e1a-49ba-a136-29109aca36ac.gif)
-
+![rhkwp5 mp4_000003150](https://user-images.githubusercontent.com/94598039/144727428-f8796b0f-88d9-40d1-b8f5-0924f7da6617.gif)
 
 
 내 점수 : 55
