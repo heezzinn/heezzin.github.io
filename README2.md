@@ -11,6 +11,8 @@
 
 최고점 : 8
 
+![과제1 mp4_000002788](https://user-images.githubusercontent.com/94598039/144727108-d5972bc6-bfae-4497-907c-bda32b653c23.gif)
+
 
 내 점수 : 9
 
@@ -36,6 +38,9 @@ I"                          # 입력모드로 변환 후 " 삽입
 문제 번호 : 603ba26a01b4d00009c10a49
 
 최고점 : 19
+
+![과제2 mp4_000001982](https://user-images.githubusercontent.com/94598039/144727223-ba892272-0785-4086-9dcb-7fd5223afaaf.gif)
+
 
 내 점수 : 27
 
