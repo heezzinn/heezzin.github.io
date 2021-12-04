@@ -112,8 +112,7 @@ P                                     # 복사해놨던 'Debug' 붙여넣기
 최고점 : 34
 
 
-![rhkwp5 mp4_000003150](https://user-images.githubusercontent.com/94598039/144727434-dea8ac09-528f-4b10-bde1-391cc1b187a9.gif)
-
+![rhkwpp5 mp4_000003015](https://user-images.githubusercontent.com/94598039/144727446-40ef70ed-e141-4518-94a3-2a9fc252ec31.gif)
 
 
 내 점수 : 88
